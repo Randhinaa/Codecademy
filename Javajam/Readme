@@ -1,4 +1,4 @@
 Set up a XAMPP server 
-Create a database using phpMyAdmin
-Save the files in htdocs of the XAMPP folder
+Import the database(sql file) using phpMyAdmin
+Save the files in htdocs of the XAMPP folder and name the folder as Javajam
 Run the code using localhost/Javajam/. in the web browser
