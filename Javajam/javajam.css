@@ -1,0 +1,30 @@
+body{background-image: url("background.gif"); color:#221811; font-family:Verdana,Arial,sans-serif;}
+#wrapper{margin-left:auto;margin-right:auto; width:80%;height:100%; border: black 1px solid}
+h1{line-height:200%; text-align:left; background-color:#D2B48C; margin:0;}
+h5{background-color:#D2B48C; line-height:115%; margin-left:0px; padding-left:10px; border-bottom: 1px solid black;}
+#content{height:90%; width: 80%; background-color:#FCEBB6;padding-left:0px; margin-left:20%; margin-right:0px; margin-top:0px; margin-bottom: 2px;border-bottom: 2px solid black}
+#nav{ text-align:center; font-weight: bold; text-decoration: none; float:left; width:16%; height: 98%;  background-color:#221811; position:fixed; overflow: auto;
+border: 1px solid black; }
+#nav ul { padding-top: 10%} 
+#nav ul li{ text-align:center; font-size:22px; padding: 12px 0 4px 0}
+#nav a:link {text-decoration:  none; color: #FCEBB6;}
+#nav a:visited {text-decoration:  none; color: #D2B48C;}
+#nav a:hover {text-decoration:  none; color: #e67300}
+#nav a:active{text-decoration:  none; color: #D2B48C;}
+#nav ul li a.current:link {text-decoration: none; color: #D2B48C;}
+#footer{font-size:.60em; text-align:center; font-style:italic; background-color:#D2B48C;height:10%; width:100%; font-weight:bold}
+.floatleft{padding-bottom: 0px; padding-left: 150px; verticle-align:middle; overflow: hidden;}
+form { border-top: 15px solid black; padding-bottom: 5px}
+
+#bck{z-index: 1; overflow:hidden; background-size:cover; width:auto; height:auto; min-height:100%; min-width:100%; border:brown 1px solid }
+#bgvid{top:0; left:0; height:1%; min-width:100%; border: black 2px solid }
+
+input[type=submit] {
+    width: 20em;  height: 4em; font-size: 18px;  background-color:#D2B48C;
+    border: solid 1px #000;
+    border-radius: 20px
+}
+input[type=submit]:hover {
+    background-color:brown;
+    
+}
