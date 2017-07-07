@@ -1,1 +1,4 @@
+Set up a XAMPP server 
+Create a database using phpMyAdmin
+Save the files in htdocs of the XAMPP folder
 Run the code using localhost/Javajam/. in the web browser
