@@ -14,5 +14,9 @@ This is a website for a coffee shop ( contains a sample database and uses an API
 Developed a dynamic website for a Coffee House using HTML, styled it using CSS, validated the user inputs using JavaScript and used PHP
 to access a MySQL database (XAMPP server) to fetch data of performing artists, according to which the website uses Last.fm API to fetch the details of the performing artists.
 
+#  ShareFiles
+
+This is a P2P File Sharing Android application created using Android Studio 3.0. 
+
 
 
